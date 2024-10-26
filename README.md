@@ -1,1 +1,1 @@
-# GenetikAlgoritmaHareketProje
+# GenetikAlgoritmaİleHareketProje
